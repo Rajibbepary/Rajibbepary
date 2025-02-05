@@ -12,7 +12,7 @@ Let me know if you'd like any refinements! 🚀
 🎤 Like to share my knowledge </p> 
 
 
-<h1>💻 Skills & Experiance:</h1>
+<h3>💻 Skills & Experiance:</h3>
 
 <p>
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
