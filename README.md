@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .
 -->
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+[<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>](https://github.com/shovoalways/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
