@@ -1,20 +1,11 @@
 # 👋 I am Rajib
 
-<!--
-**Rajibbepary/Rajibbepary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .
--->
 [<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>](https://github.com/Rajibbepary/)
+
+💫 About Me:
+I'm Rajib, a passionate JavaScript developer with expertise in the MERN Stack. I love exploring and implementing new web technologies to create innovative solutions.  I'm always eager to learn and grow in the ever-evolving tech world."
+
+Let me know if you'd like any refinements! 🚀
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
