@@ -10,3 +10,5 @@ Let me know if you'd like any refinements! 🚀
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
