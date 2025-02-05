@@ -9,7 +9,10 @@ Let me know if you'd like any refinements! 🚀
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+🎤 Like to share my knowledge<br/>
+🔭 I’m currently working on <strong> React, React Native, Nodejs, MongoDB<br/>
+ ☁️ I’ve keen interest in cloud computing. So,I’m learning 
+</p> 
 
 
 <h2>💻 Skills & Experiance:</h2>
@@ -37,49 +40,10 @@ Let me know if you'd like any refinements! 🚀
 
 
   <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-<!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
-</li>
-<li>
-<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
-</li>
-<li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
-</li>
-</ul>
-<!--Intro end-->
-<!--- stats & Trophy (start) -->
+
+
+
+
 <p align="center">
   <!--- stats (start) -->
 </p>
