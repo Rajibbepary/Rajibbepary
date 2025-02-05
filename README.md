@@ -11,7 +11,7 @@ Let me know if you'd like any refinements! 🚀
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-![Top Langs](https://medical-camp-43904.web.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://medical-camp-43904.web.app/top-langs/?username=shovoalways&layout=compact)
 <h1>💻 Skills & Experiance:</h1>
 
 <p>
