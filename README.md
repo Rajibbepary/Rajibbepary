@@ -2,11 +2,11 @@
 <div align="center">
   <!-- Header with gradient effect -->
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Full+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=8A4FFF&center=true&vCenter=true&width=600&lines=💻 Frontend+Developer;⚛️ React.js+Enthusiast;🌐 Mern+Stack+Web+Developer;🔥 Passionate+about+Learning+and+Growing" 
          alt="Typing Animation">
   </a>
   </div>
-[<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>](https://github.com/Rajibbepary/)
+<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>](https://github.com/Rajibbepary/)
 
 <h1>💫 About Me:</h1>
 I'm Rajib, a passionate JavaScript developer with expertise in the MERN Stack. I love exploring and implementing new web technologies to create innovative solutions.  I'm always eager to learn and grow in the ever-evolving tech world."
