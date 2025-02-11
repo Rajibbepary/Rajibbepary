@@ -13,7 +13,7 @@ Let me know if you'd like any refinements! 🚀
 🔭 I’m currently working on <strong> React, React Native, Nodejs, MongoDB<br/>
  ☁️ I’ve keen interest in cloud computing. So,I’m learning 
 </p> 
-
+<img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a> 
 
 <h2>💻 Skills & Experiance:</h2>
 
