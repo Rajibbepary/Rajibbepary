@@ -6,7 +6,7 @@
          alt="Typing Animation">
   </a>
   </div>
-<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>](https://github.com/Rajibbepary/)
+<img src='https://i.ibb.co.com/ZRBsPyYk/Black-and-White-Gradient-Personal-Linked-In-Banner.png?raw=true' alt='Rajib'>
 
 <h1>💫 About Me:</h1>
 I'm Rajib, a passionate JavaScript developer with expertise in the MERN Stack. I love exploring and implementing new web technologies to create innovative solutions.  I'm always eager to learn and grow in the ever-evolving tech world."
