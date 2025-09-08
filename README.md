@@ -1,4 +1,6 @@
-# 👋 I am Rajib
+# 💫 Hello! 
+Welcome 🌸
+Thank you for visiting my profile! I hope you enjoy your time here. 💙
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Web+Developer;Frontend+Developer;MERN+Stack+Developer;" alt="Typing SVG" align=center/></a>
 </div>
