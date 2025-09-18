@@ -38,15 +38,7 @@ Let me know if you'd like any refinements! 🚀
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
-
-
-
-
-
   <!--horizontal divider(gradiant)-->
-
-
-
 ## 📈 GitHub Analytics
 <p align="center">
   <!--- stats (start) -->
@@ -54,7 +46,7 @@ Let me know if you'd like any refinements! 🚀
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true"> 
  <img src="https://github-readme-stats.vercel.app/api?username=Rajibbepary&theme=dark&show_icons=true&count_private=true">
 
   <br>
