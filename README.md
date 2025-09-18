@@ -46,8 +46,9 @@ Let me know if you'd like any refinements! 🚀
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true"> 
- <img src="https://github-readme-stats.vercel.app/api?username=Rajibbepary&theme=dark&show_icons=true&count_private=true">
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rajibbepary&theme=radical" alt="GitHub Streak" style="display: inline-block; width: 90%;" />
+</div>
 
   <br>
 </td><td width="50%" align="center">
